@@ -1,0 +1,107 @@
+[build-system]
+requires = ["hatchling"]  # 或 setuptools/flit，根据你的构建工具
+build-backend = "hatchling.build"
+
+[project]
+name = "zhaobo-script-workspace"  # 项目名称（自定义）
+version = "0.1.0"
+authors = [{ name = "zhaobo", email = "604039718@qq.com" }]
+description = "工作区：Python 脚本集合"
+readme = "README.md"
+license = "LicenseRef-Proprietary"
+requires-python = ">=3.10.11"  
+
+dependencies = [
+    # 1. 基础科学计算套件
+    "numpy>=1.24.0",          # 数组计算基础
+    "pandas>=2.0.0",          # 数据处理与分析
+    "scipy>=1.10.0",          # 科学计算算法
+    # 2. 数据可视化
+    "matplotlib>=3.7.0",      # 基础图表绘制
+    "seaborn>=0.12.0",        # 统计图表增强
+    "plotly>=5.15.0",         # 交互式图表
+    "bokeh>=3.2.0",           # 网页交互式可视化
+    # 3. 大数据处理引擎
+    "pyspark>=3.5.0",         # Apache Spark
+    "apache-flink>=1.17.0",        # Apache Flink
+    "pyarrow>=12.0.0",        # 内存列式存储（Spark/Flink常用）
+    # 4. 机器学习与AI
+    #  "scikit-learn>=1.3.0",    # 传统机器学习
+    #  "xgboost>=1.7.0",         # 梯度提升树
+    # "lightgbm>=4.0.0",        # 轻量级梯度提升
+    # 5. 数据处理工具
+    "sqlalchemy>=2.0.0",      # SQL工具包
+    "openpyxl>=3.1.0",        # Excel处理
+    "python-dotenv>=1.0.0",   # 环境变量管理
+    "pyyaml>=6.0",            # YAML配置文件解析
+    # 6. 网络与API
+    "requests>=2.31.0",       # HTTP请求
+    # "fastapi>=0.104.0",       # Web API框架（可选）
+    "uvicorn[standard]>=0.24.0",  # ASGI服务器（配合FastAPI）
+    "lark-oapi>=1.5.5",
+    "psutil>=7.2.2",
+    "kafka>=1.3.5",
+    "flask>=3.1.3",
+]
+
+[project.optional-dependencies]
+# 开发依赖（非运行必需）
+dev = [
+    "jupyter>=1.0.0",         # Jupyter Notebook
+    "ipython>=8.15.0",        # 交互式Python
+    "jupyterlab>=4.0.0",      # Jupyter Lab
+    "black>=23.0.0",          # 代码格式化
+    "ruff>=0.1.0",            # 代码检查与格式化
+   #  "pytest>=7.4.0",          # 单元测试
+   #  "pytest-cov>=4.1.0",      # 测试覆盖率
+    "pre-commit>=3.5.0",      # Git提交前检查
+    "mypy>=1.6.0",            # 静态类型检查
+]
+
+# 深度学习扩展（按需安装）
+# deep-learning = [
+#     "torch>=2.0.0",           # PyTorch
+#    "torchvision>=0.15.0",    # 计算机视觉
+#    "torchaudio>=2.0.0",      # 音频处理
+#   "tensorflow>=2.13.0",     # TensorFlow
+#    "keras>=3.0.0",           # Keras
+# ]
+
+# 数据库连接器（按需安装）
+database = [
+    "pymysql>=1.1.0",         # MySQL
+    "psycopg2-binary>=2.9.0", # PostgreSQL
+    # "pymongo>=4.5.0",         # MongoDB
+    # "redis>=5.0.0",           # Redis
+]
+
+# 高级数据分析
+advanced = [
+    "statsmodels>=0.14.0",    # 统计模型
+    "networkx>=3.1",          # 图分析
+     # "dask>=2023.8.0",         # 并行计算
+    # "modin[all]>=0.23.0",     # 并行化Pandas
+]
+
+[tool.ruff]
+# Ruff 代码检查配置（示例）
+select = ["E", "F", "W", "I"]
+ignore = ["E402"]
+line-length = 88
+
+[tool.black]
+line-length = 88
+
+[tool.ruff.format]
+# 你需要的“单引号转双引号”配置
+quote-style = "double"  # 强制双引号 
+
+[tool.ruff.lint]
+
+[tool.hatch.build.targets.wheel]
+include = ["*/**/*.py"]
+# 可选：排除一些文件
+exclude = [
+    "*/__pycache__/**/*",
+    "*/tests/**/*",
+]

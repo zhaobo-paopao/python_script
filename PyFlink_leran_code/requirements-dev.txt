@@ -1,0 +1,3 @@
+﻿# 寮€鍙戜緷璧朻nruff
+black
+pytest

@@ -1,0 +1,55 @@
+🎯 执行方法：
+Linux服务器（192.168.10.121）：
+# 1. 创建脚本目录
+mkdir -p /home/hadoop/scripts
+cd /home/hadoop/scripts
+
+# 2. 创建并编辑脚本
+# 将上面的脚本内容分别保存为对应的文件
+# 使用 vi 或 nano 编辑
+
+# 3. 设置执行权限
+chmod +x *.sh
+
+# 4. 执行脚本
+# 启动所有服务
+./start_services.sh all
+
+# 或分别启动
+./start_services.sh zookeeper
+./start_services.sh kafka
+./start_services.sh spark
+
+# 查看状态
+./start_services.sh status
+
+# 停止服务
+./stop_services.sh all
+
+# 重启服务
+./restart_services.sh
+Windows本地：
+# 1. 将脚本保存到项目目录
+# E:\workspace\python_script\ecommerce_simple\
+
+# 2. 双击运行
+start_windows.bat   # 启动所有本地服务
+stop_windows.bat    # 停止本地服务
+
+📊 完整的端到端启动流程：
+第一步：启动Linux服务器服务
+ssh hadoop@192.168.10.121
+cd /home/hadoop/scripts
+./start_services.sh all
+第二步：启动Windows本地服务
+# 在Windows上
+cd E:\workspace\python_script\ecommerce_simple
+.\start_windows.bat
+
+注意事项：
+执行顺序：ZooKeeper → Kafka → Spark
+依赖关系：Kafka依赖ZooKeeper，Spark依赖Kafka
+日志查看：所有日志在 /home/hadoop/logs/
+网络要求：确保Windows能访问Linux服务器的Kafka端口(9092)
+虚拟环境：Windows脚本会自动激活Python虚拟环境
+总结：按照上述步骤创建和执行脚本，即可一键管理您的电商实时分析系统的所有服务。

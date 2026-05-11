@@ -1,0 +1,193 @@
+first_name,last_name,gender,birthday,age,job,city,address,email,phone,salary
+James,Smith,Male,1985-03-12,39,Software Engineer,New York,123 Park Ave,james.smith@email.com,212-555-1234,98000
+Emily,Johnson,Female,1992-07-24,32,Doctor,Boston,45 Oak Street,emily.johnson@email.com,617-555-5678,132000
+Michael,Williams,Male,1978-11-05,46,Teacher,Chicago,78 Lake Drive,michael.w@email.com,312-555-9012,65000
+Jessica,Brown,Female,1995-01-18,29,Nurse,Los Angeles,33 Sunset Blvd,jessica.b@email.com,310-555-3456,78000
+Christopher,Jones,Male,1983-09-30,41,Accountant,Houston,56 Mountain Rd,c.jones@email.com,713-555-7890,85000
+Ashley,Garcia,Female,1988-06-07,36,Marketing Manager,Miami,22 Beach Ave,ashley.garcia@email.com,305-555-2345,92000
+David,Miller,Male,1975-04-22,49,Lawyer,Seattle,11 Pine Street,david.miller@email.com,206-555-6789,150000
+Sarah,Davis,Female,1993-12-14,31,Designer,Dallas,89 River Road,sarah.davis@email.com,214-555-0123,71000
+Daniel,Rodriguez,Male,1981-02-28,43,Engineer,Austin,12 Valley View,daniel.rod@email.com,512-555-4567,105000
+Jennifer,Wilson,Female,1990-08-19,34,HR Specialist,Atlanta,44 Forest Ln,jennifer.w@email.com,404-555-8901,69000
+Paul,Martinez,Male,1972-10-03,52,IT Manager,Denver,67 Hill Top,p.martinez@email.com,303-555-2345,118000
+Nicole,Anderson,Female,1986-05-06,38,Pharmacist,Portland,99 Cedar St,nicole.a@email.com,503-555-6789,88000
+Brian,Taylor,Male,1994-01-11,30,Cashier,Las Vegas,23 Desert Ave,brian.taylor@email.com,702-555-0123,42000
+Melissa,Thomas,Female,1982-07-07,42,Receptionist,Orlando,54 Palm St,melissa.t@email.com,407-555-4567,38000
+Kevin,Moore,Male,1979-09-25,45,Pilot,Charlotte,18 Sky Road,kevin.moore@email.com,704-555-8901,140000
+Kimberly,Jackson,Female,1991-04-02,33,Chef,Nashville,34 Music Ave,kimberly.j@email.com,615-555-2345,56000
+Richard,Martin,Male,1984-12-10,40,Electrician,Indianapolis,77 Power Rd,richard.m@email.com,317-555-6789,72000
+Susan,Thompson,Female,1987-06-30,37,Journalist,Detroit,21 News St,susan.t@email.com,313-555-0123,53000
+Mark,White,Male,1973-03-17,51,Mechanic,Kansas City,43 Garage Ln,mark.white@email.com,816-555-4567,61000
+Elizabeth,Hernandez,Female,1996-08-05,28,Student,Saint Louis,19 Campus Dr,elizabeth.h@email.com,314-555-8901,15000
+Eric,Lopez,Male,1980-02-14,44,Plumber,Columbus,57 Pipe St,eric.lopez@email.com,614-555-2345,68000
+Amanda,Gonzalez,Female,1995-11-22,29,Dancer,San Francisco,32 Stage Ave,amanda.g@email.com,415-555-6789,49000
+Stephen,Lee,Male,1977-05-15,47,Architect,Baltimore,88 Design Rd,stephen.lee@email.com,410-555-0123,115000
+Megan,Perez,Female,1992-01-07,32,Stylist,San Diego,14 Salon St,megan.perez@email.com,619-555-4567,51000
+Scott,Walker,Male,1983-07-19,41,Firefighter,Phoenix,47 Hero Rd,scott.walker@email.com,602-555-8901,74000
+Laura,Hall,Female,1989-09-13,35,Writer,Minneapolis,29 Book Ln,laura.hall@email.com,612-555-2345,47000
+Patrick,Allen,Male,1974-04-04,50,Police Officer,Tampa,39 Patrol Rd,patrick.allen@email.com,813-555-6789,82000
+Hannah,Young,Female,1997-06-11,27,Barista,Cincinnati,15 Coffee St,hannah.young@email.com,513-555-0123,36000
+Ryan,Herrera,Male,1985-10-28,39,Carpenter,Cleveland,62 Wood Rd,ryan.herrera@email.com,216-555-4567,64000
+Brittany,King,Female,1990-03-23,34,Florist,New Orleans,27 Flower St,brittany.k@email.com,504-555-8901,41000
+Andrew,Wright,Male,1976-08-02,48,Pharmacist,Richmond,73 Medical Ave,andrew.wright@email.com,804-555-2345,89000
+Michelle,Lopez,Female,1988-02-10,36,Translator,Birmingham,31 Language Rd,michelle.l@email.com,205-555-6789,58000
+Joseph,Scott,Male,1981-11-11,43,Inspector,Milwaukee,41 Safety St,joseph.scott@email.com,414-555-0123,76000
+Sara,Green,Female,1993-05-05,31,Artist,Sacramento,25 Paint Ln,sara.green@email.com,916-555-4567,52000
+Gary,Adams,Male,1971-07-21,53,Manager,St. Louis,66 Office Rd,gary.adams@email.com,314-555-8901,95000
+Katherine,Baker,Female,1984-09-09,40,Nurse,Albuquerque,17 Hospital St,katherine.b@email.com,505-555-2345,79000
+Philip,Nelson,Male,1978-01-03,46,Chef,Oxnard,37 Kitchen Rd,philip.nelson@email.com,805-555-6789,62000
+Victoria,Carter,Female,1991-04-27,33,Model,Fort Lauderdale,22 Fashion Ave,victoria.c@email.com,954-555-0123,67000
+Kenneth,Mitchell,Male,1982-12-01,42,Technician,Fontana,51 Tech St,kenneth.m@email.com,909-555-4567,63000
+Christina,Perez,Female,1987-07-14,37,Recruiter,Cleveland,28 Talent Rd,christina.p@email.com,216-555-8901,70000
+Justin,Roberts,Male,1994-02-16,30,Driver,North Las Vegas,44 Delivery Rd,justin.r@email.com,702-555-2345,45000
+Danielle,Green,Female,1986-06-06,38,Editor,Columbus,16 Book St,danielle.g@email.com,614-555-6789,54000
+Ryan,Turner,Male,1980-10-17,44,Inspector,Cincinnati,32 Check Rd,ryan.turner@email.com,513-555-0123,75000
+Alexis,Phillips,Female,1995-09-29,29,Coach,Anaheim,18 Sports Ave,alexis.p@email.com,714-555-4567,57000
+Noah,Campbell,Male,1975-03-08,49,Engineer,Lubbock,61 Factory Rd,noah.c@email.com,806-555-8901,102000
+Lauren,Parker,Female,1992-08-08,32,Teacher,St. Paul,24 School Ln,lauren.parker@email.com,651-555-2345,66000
+Julian,Evans,Male,1983-01-21,41,Journalist,Des Moines,35 News Rd,julian.evans@email.com,515-555-6789,55000
+Madison,Collins,Female,1989-04-14,35,Designer,Overland Park,26 Art St,madison.c@email.com,913-555-0123,73000
+Cameron,Stewart,Male,1979-07-01,45,Doctor,Rochester,71 Clinic Rd,cameron.s@email.com,507-555-4567,135000
+Chloe,Sanchez,Female,1996-03-30,28,Student,Knoxville,19 College Rd,chloe.sanchez@email.com,865-555-8901,14000
+Jake,Morris,Male,1984-11-15,40,Plumber,Little Rock,58 Pipe Rd,jake.morris@email.com,501-555-2345,69000
+Haley,Rogers,Female,1988-05-25,36,Stylist,Columbia,13 Salon Ave,haley.rogers@email.com,803-555-6789,50000
+Connor,Murphy,Male,1981-06-18,43,Lawyer,Augusta,42 Law Rd,connor.murphy@email.com,706-555-0123,142000
+Samantha,Petty,Female,1990-02-02,34,Receptionist,Shreveport,29 Front Desk,samantha.p@email.com,318-555-4567,39000
+Dylan,Bailey,Male,1977-09-16,47,Mechanic,Salem,63 Garage Rd,dylan.bailey@email.com,503-555-8901,60000
+Olivia,Reed,Female,1993-11-08,31,Chef,Lincoln,36 Kitchen St,olivia.reed@email.com,402-555-2345,61000
+Tyler,Cook,Male,1982-04-11,42,Electrician,Tallahassee,74 Power St,tyler.cook@email.com,850-555-6789,71000
+Lily,Bailey,Female,1987-01-15,37,HR,Concord,20 Office Ln,lily.bailey@email.com,704-555-0123,68000
+Brady,Hughes,Male,1985-07-31,39,IT Support,Jefferson City,48 Tech Rd,brady.hughes@email.com,573-555-4567,83000
+Ella,Ward,Female,1991-10-04,33,Dancer,Topeka,30 Stage St,ella.ward@email.com,785-555-8901,48000
+Austin,Morgan,Male,1974-08-22,50,Pilot,Boise,19 Sky Rd,austin.morgan@email.com,208-555-2345,138000
+Grace,Peterson,Female,1994-05-19,30,Barista,Cheyenne,14 Coffee Ave,grace.p@email.com,307-555-6789,37000
+Ethan,Russell,Male,1980-03-04,44,Firefighter,Helena,49 Hero St,ethan.russell@email.com,406-555-0123,77000
+Ava,Black,Female,1986-09-01,38,Artist,Carson City,27 Paint Rd,ava.black@email.com,775-555-4567,53000
+Noah,Gray,Male,1978-02-22,46,Police Officer,Bismarck,52 Patrol St,noah.gray@email.com,701-555-8901,81000
+Chloe,Price,Female,1992-12-25,32,Florist,Harrisburg,23 Flower Rd,chloe.price@email.com,717-555-2345,42000
+Adam,Bennett,Male,1983-06-09,41,Accountant,Providence,64 Office St,adam.bennett@email.com,401-555-6789,86000
+Natalie,Wood,Female,1989-08-15,35,Translator,Montpelier,33 Language St,natalie.wood@email.com,802-555-0123,59000
+Joshua,Barnes,Male,1976-04-17,48,Architect,Augusta,75 Design Rd,joshua.barnes@email.com,207-555-4567,112000
+Hannah,Ross,Female,1995-02-21,29,Coach,Fargo,12 Sports Rd,hannah.ross@email.com,701-555-8901,56000
+Isaac,Foster,Male,1981-09-05,43,Carpenter,Sioux Falls,65 Wood St,isaac.foster@email.com,605-555-2345,65000
+Bella,Butler,Female,1987-03-13,37,Writer,Sioux City,34 Book Rd,bella.butler@email.com,712-555-6789,46000
+Lucas,Simmons,Male,1984-07-04,40,Technician,Rapid City,53 Tech Rd,lucas.simmons@email.com,605-555-0123,64000
+Charlotte,Gonzales,Female,1990-11-19,34,Editor,Billings,21 Book Ave,charlotte.g@email.com,406-555-4567,55000
+Miles,Long,Male,1979-01-26,45,Inspector,Missoula,40 Safety Rd,miles.long@email.com,406-555-8901,75000
+Aubrey,Henry,Female,1993-06-23,31,Recruiter,Boise,24 Talent St,aubrey.henry@email.com,208-555-2345,71000
+Owen,Dean,Male,1982-05-12,42,Manager,Idaho Falls,67 Office Rd,owen.dean@email.com,208-555-6789,94000
+Claire,Perry,Female,1988-09-22,36,Pharmacist,Pocatello,15 Medical St,claire.perry@email.com,208-555-0123,87000
+Eliot,Cook,Male,1980-10-10,44,Lawyer,Meridian,45 Law Rd,eliot.cook@email.com,208-555-4567,145000
+Julia,Washington,Female,1991-01-09,33,Nurse,Twin Falls,38 Hospital St,julia.washington@email.com,208-555-8901,80000
+Calvin,Flores,Male,1975-08-12,49,Teacher,Yakima,68 School Rd,calvin.flores@email.com,509-555-2345,67000
+Penelope,Murray,Female,1996-04-05,28,Student,Eugene,22 Campus Rd,penelope.m@email.com,541-555-6789,16000
+Derek,Freeman,Male,1985-03-25,39,Plumber,Salem,59 Pipe St,derek.freeman@email.com,503-555-0123,70000
+Iris,Wells,Female,1986-07-18,38,Designer,Bend,26 Art Rd,iris.wells@email.com,541-555-4567,74000
+Gavin,Webb,Male,1981-04-01,43,Electrician,Medford,76 Power Rd,gavin.webb@email.com,541-555-8901,72000
+Luna,Simpson,Female,1990-05-30,34,Receptionist,Corvallis,30 Front St,luna.simpson@email.com,541-555-2345,40000
+Harrison,Stevens,Male,1977-11-23,47,Mechanic,Ashland,69 Garage St,harrison.s@email.com,541-555-6789,61000
+Eleanor,Porter,Female,1992-09-15,32,Chef,Klamath Falls,39 Kitchen Ave,eleanor.p@email.com,541-555-0123,63000
+Connor,Reed,Male,1983-02-17,41,Firefighter,Newport,50 Hero Rd,connor.reed@email.com,541-555-4567,78000
+Violet,Fox,Female,1987-06-02,37,Artist,Tillamook,28 Paint St,violet.fox@email.com,503-555-8901,51000
+Jasper,Price,Male,1984-12-30,40,Police Officer,Seaside,54 Patrol Rd,jasper.price@email.com,503-555-2345,82000
+Ivy,James,Female,1991-08-28,33,Florist,Astoria,25 Flower St,ivy.james@email.com,503-555-6789,43000
+Theo,Watson,Male,1979-03-07,45,Accountant,Hood River,62 Office Rd,theo.watson@email.com,541-555-0123,85000
+Ruby,Jordan,Female,1993-01-14,31,HR Specialist,The Dalles,11 Office Ln,ruby.jordan@email.com,541-555-4567,69000
+Leo,Hunt,Male,1982-07-25,42,Engineer,La Grande,70 Factory Rd,leo.hunt@email.com,541-555-8901,103000
+Daisy,Barnes,Female,1988-04-21,36,Translator,John Day,32 Language Rd,daisy.barnes@email.com,541-555-2345,57000
+Felix,Harper,Male,1980-11-02,44,Doctor,Baker City,72 Clinic Rd,felix.harper@email.com,541-555-6789,130000
+Stella,Mitchell,Female,1995-07-07,29,Model,Enterprise,17 Fashion Ave,stella.m@email.com,541-555-0123,66000
+Jude,Brooks,Male,1985-09-12,39,IT Support,Wallowa,46 Tech St,jude.brooks@email.com,541-555-4567,84000
+Iris,Butler,Female,1986-10-16,38,Journalist,Imnaha,35 News Rd,iris.butler@email.com,541-555-8901,52000
+Oscar,Griffin,Male,1981-06-24,43,Inspector,Richland,55 Safety St,oscar.griffin@email.com,509-555-2345,76000
+Zoe,Morgan,Female,1990-02-11,34,Coach,Kennewick,13 Sports Rd,zoe.morgan@email.com,509-555-6789,58000
+Silas,Floyd,Male,1976-08-18,48,Architect,Pasco,77 Design Rd,silas.floyd@email.com,509-555-0123,110000
+Mia,Riley,Female,1992-03-19,32,Barista,Walla Walla,12 Coffee St,mia.riley@email.com,509-555-4567,38000
+Toby,Perry,Male,1983-05-08,41,Carpenter,Monroe,66 Wood St,toby.perry@email.com,360-555-8901,64000
+Lila,West,Female,1987-09-21,37,Writer,Everett,31 Book Rd,lila.west@email.com,425-555-2345,47000
+Kai,Brooks,Male,1984-01-06,40,Technician,Arlington,52 Tech Rd,kai.brooks@email.com,360-555-6789,63000
+Zara,Hayes,Female,1991-12-05,33,Editor,Marysville,22 Book Ave,zara.hayes@email.com,360-555-0123,54000
+Jensen,Myers,Male,1979-07-11,45,Manager,Edmonds,68 Office Rd,jensen.myers@email.com,425-555-4567,93000
+Lena,Perkins,Female,1993-04-12,31,Pharmacist,Lynnwood,16 Medical St,lena.perkins@email.com,425-555-8901,88000
+Rory,Chapman,Male,1982-09-03,42,Lawyer,Everett,43 Law Rd,rory.chapman@email.com,425-555-2345,143000
+Freya,Hansen,Female,1988-06-15,36,Nurse,Bellevue,39 Hospital St,freya.hansen@email.com,425-555-6789,79000
+Kian,Delgado,Male,1980-10-22,44,Teacher,Redmond,69 School Rd,kian.delgado@email.com,425-555-0123,66000
+Mara,Weaver,Female,1995-01-30,29,Student,Woodinville,23 Campus Rd,mara.weaver@email.com,425-555-4567,15000
+Rex,Hale,Male,1985-04-08,39,Plumber,Duvall,60 Pipe St,rex.hale@email.com,425-555-8901,69000
+Cora,Mendoza,Female,1986-11-14,38,Designer,Carnation,27 Art Rd,cora.mendoza@email.com,425-555-2345,73000
+Alaric,Hines,Male,1981-03-22,43,Electrician,North Bend,78 Power Rd,alaric.hines@email.com,425-555-6789,71000
+Elowen,Gill,Female,1990-07-02,34,Receptionist,Issaquah,31 Front St,elowen.gill@email.com,425-555-0123,41000
+Jasper,Fisher,Male,1977-02-19,47,Mechanic,Sammamish,70 Garage St,jasper.fisher@email.com,425-555-4567,60000
+Marley,Hoover,Female,1992-05-09,32,Chef,Maple Valley,40 Kitchen Ave,marley.hoover@email.com,425-555-8901,62000
+Koby,May,Male,1983-08-26,41,Firefighter,Kent,51 Hero Rd,koby.may@email.com,253-555-2345,77000
+Serena,Bowen,Female,1987-01-25,37,Artist,Auburn,29 Paint St,serena.bowen@email.com,253-555-6789,50000
+Damon,Sharp,Male,1984-06-13,40,Police Officer, Federal Way,56 Patrol St,damon.sharp@email.com,253-555-0123,81000
+Lilia,Cruz,Female,1991-09-17,33,Florist,Des Moines,24 Flower Rd,lilia.cruz@email.com,253-555-4567,42000
+Rafe,Hodge,Male,1982-04-04,42,Accountant,Tacoma,63 Office St,rafe.hodge@email.com,253-555-8901,84000
+Elara,Vang,Female,1988-11-11,36,Translator,Puyallup,34 Language St,elara.vang@email.com,253-555-2345,59000
+Jett,Bradshaw,Male,1980-02-29,44,Architect,Orting,79 Design Rd,jett.bradshaw@email.com,253-555-6789,113000
+Kaia,Lara,Female,1993-06-16,31,Coach,Gig Harbor,14 Sports Rd,kaia.lara@email.com,253-555-0123,57000
+Rocco,Hull,Male,1976-09-09,48,Carpenter,Port Orchard,67 Wood St,rocco.hull@email.com,360-555-4567,65000
+Liora,Cannon,Female,1990-03-11,34,Writer,Bremerton,35 Book Rd,liora.cannon@email.com,360-555-8901,46000
+Kace,Bray,Male,1983-12-08,41,Technician,Port Angeles,57 Tech Rd,kace.bray@email.com,360-555-2345,64000
+Mira,Schmidt,Female,1987-07-22,37,Editor,Sequim,23 Book Ave,mira.schmidt@email.com,360-555-6789,55000
+Jagger,Voss,Male,1981-01-15,43,Inspector,Port Townsend,41 Safety St,jagger.voss@email.com,360-555-0123,75000
+Elowen,Kirk,Female,1992-10-01,32,Recruiter,Port Ludlow,25 Talent St,elowen.kirk@email.com,360-555-4567,70000
+Rigby,Lloyd,Male,1979-04-20,45,Manager,Kingston,65 Office Rd,rigby.lloyd@email.com,360-555-8901,95000
+Soleil,Haney,Female,1995-08-12,29,Pharmacist,Suquamish,18 Medical St,soleil.haney@email.com,360-555-2345,87000
+Kai,Barlow,Male,1984-05-19,40,Lawyer, Bainbridge Island,44 Law Rd,kai.barlow@email.com,206-555-6789,142000
+Zinnia,Bautista,Female,1988-02-14,36,Nurse,Seattle,42 Hospital St,zinnia.b@email.com,206-555-0123,80000
+Joren,Beck,Male,1980-09-26,44,Teacher,Shoreline,71 School Rd,joren.beck@email.com,206-555-4567,67000
+Lira,Booker,Female,1991-01-05,33,Student,Lake Forest Park,26 Campus Rd,lira.booker@email.com,206-555-8901,16000
+Rafferty,Bullock,Male,1985-07-30,39,Plumber,Bothell,61 Pipe St,rafferty.b@email.com,425-555-2345,70000
+Elara,Casper,Female,1986-04-11,38,Designer,Kirkland,28 Art Rd,elara.casper@email.com,425-555-6789,74000
+Jagger,Dillon,Male,1981-06-06,43,Electrician,Redmond,73 Power Rd,jagger.dillon@email.com,425-555-0123,72000
+Kaia,Espinoza,Female,1990-11-24,34,Receptionist,Woodinville,32 Front St,kaia.espinoza@email.com,425-555-4567,40000
+Rocco,Garner,Male,1977-03-14,47,Mechanic,Duvall,72 Garage St,rocco.garner@email.com,425-555-8901,61000
+Liora,Giles,Female,1992-02-18,32,Chef,Carnation,43 Kitchen Ave,liora.giles@email.com,425-555-2345,63000
+Kace,Haney,Male,1983-09-04,41,Firefighter,Issaquah,53 Hero Rd,kace.haney@email.com,425-555-6789,78000
+Mira,Herrera,Female,1987-05-20,37,Artist,Sammamish,30 Paint St,mira.herrera@email.com,425-555-0123,51000
+Joren,Hickman,Male,1984-01-29,40,Police Officer,Maple Valley,58 Patrol St,joren.hickman@email.com,425-555-4567,82000
+Lira,Holder,Female,1991-08-08,33,Florist,Kent,27 Flower Rd,lira.holder@email.com,253-555-8901,43000
+Rafferty,Knapp,Male,1982-07-15,42,Accountant,Auburn,64 Office St,rafferty.knapp@email.com,253-555-2345,85000
+Elara,Lamb,Female,1988-04-03,36,HR Specialist,Federal Way,15 Office Ln,elara.lamb@email.com,253-555-6789,69000
+Jagger,Mckee,Male,1980-12-12,44,Engineer,Des Moines,74 Factory Rd,jagger.mckee@email.com,253-555-0123,102000
+Kaia,Mcdonald,Female,1993-03-23,31,Translator,Tacoma,36 Language Rd,kaia.mcdonald@email.com,253-555-4567,57000
+Rocco,Mills,Male,1976-06-17,48,Doctor,Puyallup,75 Clinic Rd,rocco.mills@email.com,253-555-8901,130000
+Liora,Molina,Female,1990-10-14,34,Model,Orting,19 Fashion Ave,liora.molina@email.com,253-555-2345,66000
+Kace,Neal,Male,1983-02-05,41,IT Support,Gig Harbor,47 Tech St,kace.neal@email.com,253-555-6789,84000
+Mira,Norton,Female,1987-09-30,37,Journalist,Port Orchard,37 News Rd,mira.norton@email.com,360-555-0123,52000
+Joren,Ortiz,Male,1981-05-02,43,Inspector,Bremerton,54 Safety St,joren.ortiz@email.com,360-555-4567,76000
+Lira,Pace,Female,1992-01-19,32,Coach,Port Angeles,13 Sports Rd,lira.pace@email.com,360-555-8901,58000
+Rafferty,Pruitt,Male,1979-08-07,45,Architect,Sequim,76 Design Rd,rafferty.pruitt@email.com,360-555-2345,110000
+Elara,Reid,Female,1995-04-14,29,Barista,Port Townsend,11 Coffee St,elara.reid@email.com,360-555-6789,38000
+Jagger,Riggs,Male,1984-07-24,40,Carpenter,Port Ludlow,68 Wood St,jagger.riggs@email.com,360-555-0123,64000
+Kaia,Rivers,Female,1988-06-21,36,Writer,Kingston,38 Book Rd,kaia.rivers@email.com,360-555-4567,47000
+Rocco,Salinas,Male,1982-03-10,42,Technician,Suquamish,55 Tech Rd,rocco.salinas@email.com,360-555-8901,63000
+Liora,Sawyer,Female,1991-12-19,33,Editor,Bainbridge Island,24 Book Ave,liora.sawyer@email.com,206-555-2345,54000
+Kace,Schultz,Male,1980-09-11,44,Manager,Seattle,66 Office Rd,kace.schultz@email.com,206-555-6789,93000
+Mira,Sexton,Female,1993-05-11,31,Pharmacist,Shoreline,17 Medical St,mira.sexton@email.com,206-555-0123,88000
+Joren,Shepherd,Male,1985-01-08,39,Lawyer,Lake Forest Park,45 Law Rd,joren.shepherd@email.com,206-555-4567,143000
+Lira,Singleton,Female,1986-08-16,38,Nurse,Bothell,41 Hospital St,lira.singleton@email.com,425-555-8901,79000
+Rafferty,Snow,Male,1981-04-25,43,Teacher,Kirkland,70 School Rd,rafferty.snow@email.com,425-555-2345,66000
+Elara,Stanton,Female,1990-02-14,34,Student,Redmond,27 Campus Rd,elara.stanton@email.com,425-555-6789,15000
+Jagger,Stevenson,Male,1977-07-09,47,Plumber,Woodinville,62 Pipe St,jagger.stevenson@email.com,425-555-0123,69000
+Kaia,Strickland,Female,1992-09-06,32,Designer,Duvall,29 Art Rd,kaia.strickland@email.com,425-555-4567,73000
+Rocco,Sykes,Male,1983-06-03,41,Electrician,Carnation,77 Power Rd,rocco.sykes@email.com,425-555-8901,71000
+Liora,Tate,Female,1987-01-31,37,Receptionist,Issaquah,33 Front St,liora.tate@email.com,425-555-2345,41000
+Kace,Terry,Male,1984-10-21,40,Mechanic,Sammamish,71 Garage St,kace.terry@email.com,425-555-6789,60000
+Mira,Thornton,Female,1991-07-12,33,Chef,Maple Valley,44 Kitchen Ave,mira.thornton@email.com,425-555-0123,62000
+Joren,Vaughan,Male,1982-05-15,42,Firefighter,Kent,52 Hero Rd,joren.vaughan@email.com,253-555-4567,77000
+Lira,Villarreal,Female,1988-04-07,36,Artist,Auburn,31 Paint St,lira.villarreal@email.com,253-555-8901,50000
+Rafferty,Walton,Male,1980-01-22,44,Police Officer,Federal Way,59 Patrol St,rafferty.walton@email.com,253-555-2345,81000
+Elara,Walls,Female,1993-02-26,31,Florist,Des Moines,28 Flower Rd,elara.walls@email.com,253-555-6789,42000
+Jagger,Weeks,Male,1976-09-19,48,Accountant,Tacoma,65 Office St,jagger.weeks@email.com,253-555-0123,84000
+Kaia,Whitney,Female,1990-11-03,34,Translator,Puyallup,39 Language St,kaia.whitney@email.com,253-555-4567,59000
+Rocco,Wiggins,Male,1983-03-02,41,Architect,Orting,78 Design Rd,rocco.wiggins@email.com,253-555-8901,113000
+Liora,Wilkins,Female,1987-07-28,37,Coach,Gig Harbor,14 Sports Rd,liora.wilkins@email.com,253-555-2345,57000
+Kace,Wilson,Male,1981-06-11,43,Carpenter,Port Orchard,69 Wood St,kace.wilson@email.com,360-555-6789,65000
+Mira,Wise,Female,1992-01-10,32,Writer,Bremerton,39 Book Rd,mira.wise@email.com,360-555-0123,46000
+Joren,Wolfe,Male,1984-04-18,40,Technician,Port Angeles,56 Tech Rd,joren.wolfe@email.com,360-555-4567,64000
+Lira,Woodard,Female,1988-09-23,36,Editor,Sequim,25 Book Ave,lira.woodard@email.com,360-555-8901,55000
+Rafferty,Young,Male,1980-02-12,44,Inspector,Port Townsend,42 Safety St,rafferty.young@email.com,360-555-2345,75000
+Elara,Zamora,Female,1993-06-04,31,Recruiter,Port Ludlow,26 Talent St,elara.zamora@email.com,360-555-6789,70000

@@ -1,0 +1,55 @@
+{
+    "workbench.settings.useSplitJSON": false,
+    "workbench.settings.openDefaultSettings": false,
+    "editor.formatOnPaste": false,
+    "editor.fontLigatures": false,
+    "editor.fontVariations": false,
+    "python.defaultInterpreterPath": "D:\\Python\\Python38\\python.exe",
+    "editor.snippetSuggestions": "inline",
+    "editor.tabCompletion": "on",
+    "python.languageServer": "Pylance",
+    "python.analysis.autoImportCompletions": false,
+    "python.analysis.completeFunctionParens": false,
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.inlayHints.variableTypes": false,
+    "python.analysis.inlayHints.callArgumentNames": "off",
+    "jupyter.enableNativeDataViewer": true,
+    "jupyter.enableVariableExplorer": true,
+    "jupyter.enableOutputOutput": true,
+    "jupyter.enableAutocompleteForCell": true,
+    "jupyter.useNotebookEditor": true,
+    "jupyter.enableErrorDiagnostics": false,
+    "jupyter.enableErrorTelemetry": true,
+    "jupyter.textEditor.executeSelection": true,
+    "editor.parameterHints.enabled": true,
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.reportUnusedVariable": "none",
+    "python.analysis.reportUndefinedVariable": "error",
+    "python.analysis.reportInvalidTypeForm": "error",
+    "python.analysis.reportInvalidStringEscapeSequence": "error",
+    "python.analysis.indexing": true,
+    "java.debug.settings.onBuildFailureProceed": true,
+    "python.analysis.extraPaths": ["./src"],
+    "python.envFile": "${workspaceFolder}/.env",
+    "ruff.importStrategy": "fromEnvironment",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.ruff": "explicit",
+        "source.organizeImports.ruff": "explicit"
+    },
+    "python.formatting.provider": "black",
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.formatOnSave": true
+    },
+    "editor.hover.enabled": true,
+    "editor.definitionLink.enabled": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "notebook.defaultFormatter": "ms-python.black-formatter",
+    "notebook.formatOnSave.enabled": true,
+    "notebook.codeActionsOnSave": {
+        "source.fixAll.ruff": true
+    },
+    "ruff.server.preview": true
+
+}

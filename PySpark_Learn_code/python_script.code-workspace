@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"workbench.settings.useSplitJSON": false,
+		"workbench.settings.openDefaultSettings": false,
+		"python.languageServer": "Pylance",
+		"java.debug.settings.onBuildFailureProceed": true,
+		"ruff.importStrategy": "fromEnvironment",
+		"notebook.defaultFormatter": "ms-python.black-formatter",
+		"notebook.formatOnSave.enabled": true
+	}
+}

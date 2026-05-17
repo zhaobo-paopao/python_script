@@ -42,7 +42,7 @@
         "editor.defaultFormatter": "charliermarsh.ruff",
         "editor.formatOnSave": true
     },
-    "editor.hover.enabled": true,
+    "editor.hover.enabled": "on",
     "editor.definitionLink.enabled": true,
     "python.analysis.typeCheckingMode": "basic",
     "notebook.defaultFormatter": "ms-python.black-formatter",

@@ -1,0 +1,35 @@
+{
+    "id": 1,
+    "user": {
+        "name": "张三",
+        "age": 23,
+        "gender": "男",
+        "address": {
+            "city": "北京",
+            "district": "朝阳区",
+            "code": "100020"
+        }
+    },
+    "order": {
+        "order_id": "O1001",
+        "amount": 256.8,
+        "status": "paid",
+        "create_time": "2025-01-01 10:00:00"
+    },
+    "items": [
+        {
+            "item_id": "I001",
+            "name": "手机",
+            "price": 256.8,
+            "count": 1
+        }
+    ],
+    "pay": {
+        "type": "支付宝",
+        "channel": "mobile"
+    },
+    "ext": {
+        "level": "vip1",
+        "points": 120
+    }
+}

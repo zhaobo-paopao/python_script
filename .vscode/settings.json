@@ -4,7 +4,7 @@
     "editor.formatOnPaste": false,
     "editor.fontLigatures": false,
     "editor.fontVariations": false,
-    "python.defaultInterpreterPath": "D:\\Python\\Python38\\python.exe",
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
     "editor.snippetSuggestions": "inline",
     "editor.tabCompletion": "on",
     "python.languageServer": "Pylance",
@@ -29,7 +29,6 @@
     "python.analysis.reportInvalidTypeForm": "error",
     "python.analysis.reportInvalidStringEscapeSequence": "error",
     "python.analysis.indexing": true,
-    "java.debug.settings.onBuildFailureProceed": true,
     "python.analysis.extraPaths": ["./src"],
     "python.envFile": "${workspaceFolder}/.env",
     "ruff.importStrategy": "fromEnvironment",
@@ -37,7 +36,6 @@
         "source.fixAll.ruff": "explicit",
         "source.organizeImports.ruff": "explicit"
     },
-    "python.formatting.provider": "black",
     "[python]": {
         "editor.defaultFormatter": "charliermarsh.ruff",
         "editor.formatOnSave": true
@@ -45,11 +43,10 @@
     "editor.hover.enabled": "on",
     "editor.definitionLink.enabled": true,
     "python.analysis.typeCheckingMode": "basic",
-    "notebook.defaultFormatter": "ms-python.black-formatter",
+    "notebook.defaultFormatter": "charliermarsh.ruff",
     "notebook.formatOnSave.enabled": true,
     "notebook.codeActionsOnSave": {
-        "source.fixAll.ruff": true
-    },
-    "ruff.server.preview": true
+        "source.fixAll.ruff": "explicit"
+    }
 
 }

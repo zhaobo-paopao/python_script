@@ -1,0 +1,12 @@
+.idea/
+*.iml
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+Thumbs.db
